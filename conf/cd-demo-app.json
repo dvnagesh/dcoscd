@@ -18,8 +18,9 @@
   "cpus": 0.1,
   "instances": 1,
   "labels": {
-    "HAPROXY_0_VHOST": "cicd.internationacryptox.io",
-    "HAPROXY_GROUP": "external"
+    "HAPROXY_0_VHOST": "cicd.internationalcryptox.io",
+    "HAPROXY_GROUP": "external",
+    "HAPROXY_0_REDIRECT_TO_HTTPS": "true"
   },
   "mem": 128,
   "networks": [
