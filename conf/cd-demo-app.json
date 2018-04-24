@@ -18,9 +18,8 @@
   "cpus": 0.1,
   "instances": 1,
   "labels": {
-    "HAPROXY_0_VHOST": "ELB_HOSTNAME",
-    "HAPROXY_GROUP": "external",
-    "lastChangedBy": "velocity-team@mesosphere.com"
+    "HAPROXY_0_VHOST": "cicd.internationacryptox.io",
+    "HAPROXY_GROUP": "external"
   },
   "mem": 128,
   "networks": [
